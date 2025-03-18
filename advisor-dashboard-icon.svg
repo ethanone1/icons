@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Circle Background -->
+  <circle cx="60" cy="60" r="60" fill="#2ecc71"/>
+  
+  <!-- Dashboard Shape -->
+  <rect x="30" y="35" width="60" height="50" rx="5" fill="#ecf0f1"/>
+  
+  <!-- Gauge/Dial -->
+  <path d="M40,50 A30,30 0 0,1 80,50" stroke="#2c3e50" stroke-width="3" fill="none"/>
+  <line x1="60" y1="50" x2="70" y2="65" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="50" r="3" fill="#2c3e50"/>
+  
+  <!-- Chart Bars -->
+  <rect x="35" y="80" width="10" height="15" fill="#3498db" y="-30"/>
+  <rect x="50" y="70" width="10" height="25" fill="#9b59b6" y="-30"/>
+  <rect x="65" y="75" width="10" height="20" fill="#f1c40f" y="-30"/>
+  <rect x="80" y="65" width="10" height="30" fill="#e74c3c" y="-30"/>
+  
+  <!-- Label -->
+  <text x="60" y="110" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">Advisor Dashboard</text>
+</svg>
