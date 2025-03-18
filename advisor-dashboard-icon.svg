@@ -11,10 +11,10 @@
   <circle cx="60" cy="50" r="3" fill="#2c3e50"/>
   
   <!-- Chart Bars -->
-  <rect x="35" y="80" width="10" height="15" fill="#3498db" y="-30"/>
-  <rect x="50" y="70" width="10" height="25" fill="#9b59b6" y="-30"/>
-  <rect x="65" y="75" width="10" height="20" fill="#f1c40f" y="-30"/>
-  <rect x="80" y="65" width="10" height="30" fill="#e74c3c" y="-30"/>
+  <rect x="35" y="80" width="10" height="15" fill="#3498db"/>
+  <rect x="50" y="70" width="10" height="25" fill="#9b59b6"/>
+  <rect x="65" y="75" width="10" height="20" fill="#f1c40f"/>
+  <rect x="80" y="65" width="10" height="30" fill="#e74c3c"/>
   
   <!-- Label -->
   <text x="60" y="110" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">Advisor Dashboard</text>
